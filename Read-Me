@@ -1,4 +1,7 @@
-Fully Working
-ChatBot,Twitter,Quotes,Hello.Help Commands
+
 NO SLASH COMMAND
 Guess comand not working : nested conditionals statements
+
+Hello and Help command
+Reads quotes from textfile ( attached )
+Read messages and can tweet if prompted to do so
