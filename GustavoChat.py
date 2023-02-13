@@ -1,10 +1,10 @@
-TOKEN = 'MTA2NTgwODE3OTI4NTQ2NzE0Ng.GTh_F_.0LfaTiRXhYYJQjcJTxFyOPjD5jS2Py5hsVdCcE'
+TOKEN = 'ENTER YOUR OWN TOKEN'
 
 twitter_keys = {
-        'consumer_key':        'GIy0W9gAlT0JZnkckaNM80irg',
-        'consumer_secret':     '370tLYWMy3kWzAxaAzsRe6QifLsJ4WzI3h8uzP0x3rLljwCAco',
-        'access_token_key':    '1257379940321935369-6hi0KkRd58HljWAFAyCAxDsx7sALdO',
-        'access_token_secret': 'hd2rhiwCkDb0cBMj7bdoKrcooZ0wTqNSvq3AxqoQOeZXR'
+        'consumer_key':        'ENTER TWITTER KEYS',
+        'consumer_secret':     'ENTER TWITTER KEYS',
+        'access_token_key':    'ENTER TWITTER KEYS',
+        'access_token_secret': 'ENTER TWITTER KEYS'
     }
 
 import discord
